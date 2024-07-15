@@ -1,0 +1,15 @@
+.homeimg{
+  width: 500px;
+  height: 200px;
+}
+.homepage{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.detial{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
